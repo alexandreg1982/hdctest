@@ -3,7 +3,7 @@
 pltv-site="XXX SITE CASO HOUVER XXX" pltv-email="XXX E-MAIL XXX"
 
 #EXTINF:0 tvg-logo="http://localhost:8096/emby/Items/6/Images/Primary? " group-title="filmes lançamentos", Aladim
-http://localhost:8096/emby/videos/6/master.m3u8?
+http://131.100.242.16:8096/emby/videos/6/master.m3u8?
 
 #EXTINF:0 tvg-logo="http://localhost:8096/emby/Items/10/Images/Primary? " group-title="filmes lançamentos", Hotel Transivania 3
 http://localhost:8096/emby/videos/10/master.m3u8?
