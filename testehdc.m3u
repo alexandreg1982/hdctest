@@ -1,0 +1,18 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="http://localhost:8096/emby/Items/10/Images/Logo?" pltv-name="hdcplay" pltv-description="filmes e series" pltv-cover="http://localhost:8096/emby/Items/200/Images/Primary?" pltv-author="alexandre gonçalves" 
+pltv-site="XXX SITE CASO HOUVER XXX" pltv-email="XXX E-MAIL XXX"
+
+#EXTINF:0 tvg-logo="http://localhost:8096/emby/Items/6/Images/Primary? " group-title="filmes lançamentos", Aladim
+http://localhost:8096/emby/videos/6/master.m3u8?
+
+#EXTINF:0 tvg-logo="http://localhost:8096/emby/Items/10/Images/Primary? " group-title="filmes lançamentos", Hotel Transivania 3
+http://localhost:8096/emby/videos/10/master.m3u8?
+
+#EXTINF:0 tvg-logo="http://localhost:8096/emby/Items/9/Images/Primary? " group-title="filmes lançamentos", Ameaças no Espaço
+http://localhost:8096/emby/videos/9/master.m3u8?
+
+#EXTINF:0 tvg-logo="http://localhost:8096/emby/Items/7/Images/Primary? " group-title="filmes lançamentos", Arthur e Merlim
+http://localhost:8096/emby/videos/7/master.m3u8?
+
+#EXTINF:0 tvg-logo="http://localhost:8096/emby/Items/8/Images/Primary? " group-title="filmes lançamentos", A Invasão
+http://localhost:8096/emby/videos/8/master.m3u8?

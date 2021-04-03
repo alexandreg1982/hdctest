@@ -1,2 +1,0 @@
-# hdctest
-teste!!!
